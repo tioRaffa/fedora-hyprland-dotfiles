@@ -1,6 +1,6 @@
 # 🐧 Fedora + Hyperland Setup
 
-Bem-vindo ao meu ambiente personalizado no **Fedora Linux com Hyperland** —  
+Bem-vindo ao meu ambiente personalizado no **Fedora Linux com Hyperland** 
 
 ---
 
