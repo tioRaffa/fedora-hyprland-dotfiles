@@ -8,7 +8,8 @@ Bem-vindo ao meu ambiente personalizado no **Fedora Linux com Hyperland**
 
 > 🎨 Exemplo do meu desktop:
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed530631-1350-45f5-930b-0ba7937c011d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a0d77c04-0d07-45ae-a640-b6596293bbad" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a1114f9a-4296-46db-9b02-00f583fe3f05" />
 
 ---
 
